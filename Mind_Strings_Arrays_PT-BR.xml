@@ -67,7 +67,7 @@ Example of traduction:
 <string name="close_folder">Fechar pastas automaticamente</string>
 <string name="infinite_scroll">Deslizar infinito</string>
 <string name="icon_name_title">Ocultar texto de ícones</string>
-<string name="hotseat_icons_title">Ocultar text dos ícones no dock</string>
+<string name="hotseat_icons_title">Ocultar texto dos ícones no dock</string>
 <string name="icon_shadows">Sombra do ícone</string>
 <string name="clock_in_sb">Sempre mostrar o relógio na Barra de status</string>
 <string name="return_previous_app">Voltar ao app anterior</string>
@@ -114,21 +114,21 @@ Example of traduction:
 <string name="about_mind">Sobre Mind Edition</string>
 <string name="mind_settings">Configurações adicionais</string>
 <string name="mind_version">12.0.13.0</string>
-<string name="disable_global_dark_mode_title">Desativar modo escuro global</string>
+<string name="disable_global_dark_mode_title">Desativar apps do modo escuro globalmente</string>
 <string name="control_center_settings">Centro de Controle</string>
 <string name="press_color_to_apply">Toque na cor para aplicar</string>
 
 
 
 Arrays:
--> Edit the text inside <item> </item> 
-Example:
+-> Edite o texto dentro <item> </item> 
+Examplo:
 
 <item>Ringtone</item> 
 ------->
 <item>Tono de llamada</item> 
 
--> Don't edit text with @
+-> Não altere textos com @
 
 
 
