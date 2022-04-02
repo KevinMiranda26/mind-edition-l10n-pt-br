@@ -1,0 +1,368 @@
+
+Strings:
+Example of traduction:
+<string name="traduction_example">Exemplo de tradução</string>
+--------------------->
+<string name="traduction_example">Exemplo de tradução</string>
+
+
+
+<string name="system_volume_option_title">Volume do sistema</string>
+<string name="sb_mind_settings_title">Centro de controle e Barra de status</string>
+<string name="switch_cc">Alterar estilo do Centro de controle</string>
+<string name="switch_cc_s">Uso de dados em vez de Lanterna</string>
+<string name="number_notification_icons_title">Número de ícones de notificação</string>	
+<string name="sb_icon_size">Tamanho de ícones de notificação</string>
+<string name="percent_size">Porcentagem da bateria</string>
+<string name="clock_size">Tamanho do relógio</string>
+<string name="netspeed_double_size">Tamanho de velocidade da conexão dupla</string>
+<string name="netspeed_single_size">Tamanho de velocidade da conexão única</string>
+<string name="hide_alarm_icon">Ocultar ícone de alarme</string>
+<string name="hide_bt_icon">Ocultar ícone de bluetooth</string>
+<string name="position_network_icons">Posição dos ícones de rede</string>
+<string name="vertically">Verticalmente</string>
+<string name="horizontally">Horizontalmente</string>
+<string name="battery_icon_style">Estilo do ícone de bateria</string>
+<string name="battery_icon_color">Cor do ícone de bateria</string>
+<string name="color_battery_1">Cor em 70-100</string>
+<string name="color_battery_2">Cor em 50-70</string>
+<string name="color_battery_3">Cor em 20-50</string>
+<string name="color_battery_4">Cor em 5-20</string>
+<string name="color_battery_5">Cor em 0-5</string>
+<string name="battery_icon_and_percentage">Ícone de bateria e porcentagem</string>
+<string name="big_tiles_settings">Configurações de tiles</string>
+<string name="color_big_tile_on">Cor de tile quando ativado</string>
+<string name="color_big_tile_off">Cor de tile quando desativado</string>
+<string name="color_outline_tile_on">Cor de contorno de tile quando ativado</string>
+<string name="color_outline_tile_off">Cor de contorno de tile quando desativado</string>
+<string name="outline_width_tile_on">Largura do contorno de tile quando ativado</string>
+<string name="outline_width_tile_off">Largura do contorno de tile quando desativado</string>
+<string name="corner_big_tiles_radius">Curva nos cantos dos tiles</string>
+<string name="blur_radius_bg">Blur de fundo</string>
+<string name="change_bg">Alterar fundo</string>
+<string name="blur_bg_summary">Blur</string>
+<string name="color_bg_summary">Cor</string>
+<string name="color_bg">Cor de fundo</string>
+<string name="contacts_settings">Contatos</string>
+<string name="text_bg">Reinicie seu dispositivo após alterar essas configurações. Em alguns casos você apenas precisa fechar o app.</string>
+<string name="icons_text_header">Ícones no cabeçalho em vez de texto</string>
+<string name="blur_radius_ts">Blur de fundo durante chamada</string>
+<string name="transparency_ts">Transparência do fundo durante chamada</string>
+<string name="color_bg_ts">Cor de fundo durante chamada</string>	
+<string name="show_incoming_calls_full_screen_title">Exibir chamadas recebidas em tela cheia</string>
+<string name="launcher_settings">Launcher</string>
+<string name="standard_settings">Configurações padrão</string>
+<string name="blur_radius_recents_folders_title">Blur para recentes e pastas</string>
+<string name="animation_speed_title">Velocidade de animação</string>
+<string name="simple_anim_title">Animação simples</string>
+<string name="allow_freeform_all_apps">Permitir que todos apps usem janela flutuante</string>
+<string name="folder_col_count_title">Número de ícones em colunas nas pastas</string>
+<string name="single_line">Texto dos ícones em uma única linha</string>
+<string name="single_line_on">Ligado</string>
+<string name="single_line_off">Desligado</string>
+<string name="scrolling_line">Rolagem da linha</string>
+<string name="scrolling_line_on">Ligado</string>
+<string name="scrolling_line_off">Desligado</string>
+<string name="unlock_animation_off">Remover animação de ícone de desbloqueio</string>
+<string name="close_folder">Fechar pastas automaticamente</string>
+<string name="infinite_scroll">Deslizar infinito</string>
+<string name="icon_name_title">Ocultar texto de ícones</string>
+<string name="hotseat_icons_title">Ocultar text dos ícones no dock</string>
+<string name="icon_shadows">Sombra do ícone</string>
+<string name="clock_in_sb">Sempre mostrar o relógio na Barra de status</string>
+<string name="return_previous_app">Voltar ao app anterior</string>
+<string name="return_previous_app_s">Arrastar através da tela começando da borda para voltar ao app anterior</string>
+<string name="gesture_home">Gestos na tela inicial</string>
+<string name="doubletap_home"Toque duplo></string>
+<string name="swipe_up_home">Arrastar para cima</string>
+<string name="double_tap_app_title">Aplicação para toque duplo</string>
+<string name="swipe_up_app_title">Aplicação para arrastar para cima</string>
+<string name="lockscreen_settings">Tela de bloqueio e animação de carregamento</string>
+<string name="always_show_lockscreen_notification">Sempre mostrar notificações na tela de bloqueio</string>
+<string name="charge_animation_settings">Animação de carregamento</string>
+<string name="color_of_first_line">Cor da primeira linha</string>
+<string name="color_of_second_line">Cor da segunda linha</string>
+<string name="color_of_third_line">Cor da terceira linha</string>
+<string name="color_of_fourth_line">Cor da quarta linha</string>
+<string name="color_of_fifth_line">Cor da quinta linha</string>
+<string name="color_of_sixth_line">Cor da sexta linha</string>
+<string name="music_player">Player de música</string>
+<string name="volbtn_toggle_title">Gerenciamento de música</string>
+<string name="volbtn_timeout_title">Tempo de atraso</string>
+<string name="volbtn_vol_up_title">Volume para cima</string>
+<string name="volbtn_vol_down_title">Volume para baixo</string>
+<string name="volbtn_timeout_summary">Atual: %s ms</string>
+<string name="volbtn_toggle_summary">Quando a tela está desligada, um toque longo nos botões de volume irá pular a música</string>
+<string name="action_bar_type">Tipo de barra de ação</string>
+<string name="pip_window_size">Tamanho da janela PiP</string>
+<string name="pip_default">Padrão</string>
+<string name="pip_medium">Médio</string>
+<string name="pip_big">Grande</string>
+<string name="statusbar_style_title">Estilo de barra de status</string>
+<string name="listview_animation_title">Animação de visualização de lista</string>
+<string name="popup_animation_title">Animação de popup</string>
+<string name="disable_screenshot_secure">Desativar captura de tela segura</string>
+<string name="notification_sound_mod_title">Som de notificação enquanto a tela está ligada</string>
+<string name="low_battery_title">Dialogo de bateria baixa</string>
+<string name="hide_title">Ocultar</string>
+<string name="show_title">Exibir</string>	
+<string name="mind_settings_title">Mind Configurações</string>
+<string name="support_group">Grupo de suporte</string>
+<string name="updates_channel">Canal de Atualizações</string>
+<string name="maintainer">Mantedor: Kevin Miranda</string>
+<string name="additional_info">Informações adicionais</string>
+<string name="about_mind">Sobre Mind Edition</string>
+<string name="mind_settings">Configurações adicionais</string>
+<string name="mind_version">12.0.13.0</string>
+<string name="disable_global_dark_mode_title">Desativar modo escuro global</string>
+<string name="control_center_settings">Centro de Controle</string>
+<string name="press_color_to_apply">Toque na cor para aplicar</string>
+
+
+
+Arrays:
+-> Edit the text inside <item> </item> 
+Example:
+
+<item>Ringtone</item> 
+------->
+<item>Tono de llamada</item> 
+
+-> Don't edit text with @
+
+
+
+<string-array name="volbtn_action_entries">
+    <item>Próximo</item>
+    <item>Anterior</item>
+    <item>Parar</item>
+    <item>Nenhum</item>
+</string-array>
+<string-array name="volbtn_action_values">
+    <item>87</item>
+    <item>88</item>
+    <item>127</item>
+    <item>555</item>
+</string-array>
+<string-array name="volbtn_timeout_entries">
+    <item>2000 ms</item>
+    <item>1500 ms</item>
+    <item>1000 ms</item>
+    <item>700 ms</item>
+    <item>500 ms</item>
+    <item>300 ms</item>
+</string-array>
+<string-array name="volbtn_timeout_values">
+    <item>2000</item>
+    <item>1500</item>
+    <item>1000</item>
+    <item>700</item>
+    <item>500</item>
+    <item>300</item>
+</string-array>
+<string-array name="battery_icon_entries">
+    <item>MIUI 12</item>
+    <item>MIUI 11</item>
+</string-array>
+<string-array name="battery_icon_values">
+    <item>0</item>
+    <item>1</item>
+</string-array>
+<string-array name="action_bar_type_entries">
+    <item>Alternando</item>
+    <item>Grande</item>
+    <item>Pequeno</item>
+</string-array>
+<string-array name="action_bar_type_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+</string-array>
+<string-array name="folder_col_entries">
+    <item>3 colunas</item>
+    <item>4 colunas</item>
+</string-array>
+<string-array name="folder_col_values">
+    <item>3</item>
+    <item>4</item>
+</string-array>
+<array name="net_speed_icons">
+    <item>@drawable/battery_indicator_off</item>
+    <item>@drawable/net_single_speed</item>
+    <item>@drawable/net_dooble_speed</item>
+</array>
+<string-array name="net_speed_entries">
+    <item>Não exibir</item>
+    <item>Em uma linha</item>
+    <item>Em duas linhas</item>
+</string-array>
+<string-array name="net_speed_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+</string-array>
+<string-array name="listview_animation_entries">
+    <item>Sem animação</item>
+    <item>Zoom</item>
+    <item>Maps</item>
+    <item>Twist</item>
+    <item>Wave</item>
+    <item>Coup</item>
+    <item>Flight</item>
+    <item>Reverse Flight</item>
+    <item>Spiral</item>
+    <item>Screw</item>
+    <item>Tilt</item>
+    <item>Zipper</item>
+    <item>Damping</item>
+    <item>Rotation</item>
+    <item>Slide</item>
+</string-array>
+<string-array name="listview_animation_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>11</item>
+    <item>12</item>
+    <item>13</item>
+    <item>14</item>
+</string-array>
+<string-array name="animation_speed_entries">
+    <item>1.35f</item>
+    <item>1.25f</item>
+    <item>1.15f</item>
+    <item>1.0f</item>
+    <item>0.8f</item>
+    <item>0.75f</item>
+    <item>0.5f</item>
+</string-array>
+<string-array name="animation_speed_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+</string-array>
+<string-array name="pip_window_size_entries">
+    <item>@string/pip_default</item>
+    <item>@string/pip_medium</item>
+    <item>@string/pip_big</item>
+</string-array>
+<string-array name="pip_window_size_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+</string-array>
+<string-array name="toast_animation_entries">
+    <item>Padrão</item>
+    <item>Fade</item>
+    <item>SlideRight</item>
+    <item>SlideLeft</item>
+    <item>Xylon</item>
+    <item>Toko</item>
+    <item>TN</item>
+    <item>Honami</item>
+    <item>FastFade</item>
+    <item>GrowFade</item>
+    <item>Translucent</item>
+    <item>SlideLeftRight</item>
+    <item>SlideRightLeft</item>
+    <item>Wlryss</item>
+    <item>Wlryss1</item>
+    <item>Wlryss2</item>
+    <item>Wlryss3</item>
+    <item>Wlryss4</item>
+    <item>Wlryss5</item>
+    <item>Wlryss6</item>
+    <item>Wlryss7</item>
+    <item>Wlryss8</item>
+</string-array>
+<string-array name="toast_animation_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>11</item>
+    <item>12</item>
+    <item>13</item>
+    <item>14</item>
+    <item>15</item>
+    <item>16</item>
+    <item>17</item>
+    <item>18</item>
+    <item>19</item>
+    <item>20</item>
+    <item>21</item>
+    <item>22</item>
+</string-array>
+<string-array name="statusbar_style_entries">
+    <item>Padrão</item>
+    <item>Relógio Centralizado</item>
+    <item>AOSP</item>
+</string-array>
+<string-array name="statusbar_style_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+</string-array>
+<string-array name="launcher_gesture_entries">
+    <item>Desligar a tela</item>
+    <item>Menu power</item>
+    <item>Apps recentes</item>
+    <item>Telefone</item>
+    <item>Modo de som: Som / Vibração</item>
+    <item>Painel de notificação</item>
+    <item>Alterar Wi-Fi</item>
+    <item>Alterar Bluetooth</item>
+    <item>Alterar dados móveis</item>
+    <item>Limpar memória</item>
+    <item>Aplicações rodando</item>
+    <item>Desativar</item>
+</string-array>
+<string-array name="launcher_double_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>999</item>
+</string-array>
+<string-array name="launcher_swipe_values">
+<item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>11</item>
+    <item>999</item>
+</string-array>
+
