@@ -1,0 +1,368 @@
+
+Strings:
+Example of traduction:
+<string name="traduction_example">Traduction example</string>
+--------------------->
+<string name="traduction_example">Ejemplo de traduccion</string>
+
+
+
+<string name="system_volume_option_title">System volume</string>
+<string name="sb_mind_settings_title">Control center and Status bar</string>
+<string name="switch_cc">Switch the Control center style</string>
+<string name="switch_cc_s">Data Usage instead of Flashlight tile</string>
+<string name="number_notification_icons_title">Number of notification icons</string>	
+<string name="sb_icon_size">Size of notification icons</string>
+<string name="percent_size">Battery percent size</string>
+<string name="clock_size">Clock size</string>
+<string name="netspeed_double_size">Size of double network speed</string>
+<string name="netspeed_single_size">Size of single network speed</string>
+<string name="hide_alarm_icon">Hide alarm icon</string>
+<string name="hide_bt_icon">Hide bluetooth icon</string>
+<string name="position_network_icons">Position of network icons</string>
+<string name="vertically">Vertically</string>
+<string name="horizontally">Horizontally</string>
+<string name="battery_icon_style">Battery icon style</string>
+<string name="battery_icon_color">Color of battery icon</string>
+<string name="color_battery_1">Color at 70-100</string>
+<string name="color_battery_2">Color at 50-70</string>
+<string name="color_battery_3">Color at 20-50</string>
+<string name="color_battery_4">Color at 5-20</string>
+<string name="color_battery_5">Color at 0-5</string>
+<string name="battery_icon_and_percentage">Battery icon and percentage</string>
+<string name="big_tiles_settings">Big tiles settings</string>
+<string name="color_big_tile_on">Tile color while it is turned on</string>
+<string name="color_big_tile_off">Tile color while it is turned off</string>
+<string name="color_outline_tile_on">Outline color while tile is turned on</string>
+<string name="color_outline_tile_off">Outline color while tile is turned off</string>
+<string name="outline_width_tile_on">Outline width while tile is turned on</string>
+<string name="outline_width_tile_off">Outline width while tile is turned off</string>
+<string name="corner_big_tiles_radius">Tile corner radius</string>
+<string name="blur_radius_bg">Background blur radius</string>
+<string name="change_bg">Change background</string>
+<string name="blur_bg_summary">Blur</string>
+<string name="color_bg_summary">Color</string>
+<string name="color_bg">Background color</string>
+<string name="contacts_settings">Contacts</string>
+<string name="text_bg">Reboot your device after changing this setting. In some cases you just need to close the app</string>
+<string name="icons_text_header">Icons in the header instead of text</string>
+<string name="blur_radius_ts">Background blur radius during a call</string>
+<string name="transparency_ts">Background transparency during a call</string>
+<string name="color_bg_ts">Background color during a call</string>	
+<string name="show_incoming_calls_full_screen_title">Show incoming calls in full screen</string>
+<string name="launcher_settings">Launcher</string>
+<string name="standard_settings">Standard settings</string>
+<string name="blur_radius_recents_folders_title">Blur radius for recents and folders</string>
+<string name="animation_speed_title">Animation speed</string>
+<string name="simple_anim_title">Simple animation</string>
+<string name="allow_freeform_all_apps">Allow all apps to use floating window</string>
+<string name="folder_col_count_title">Number of icons in folder columns</string>
+<string name="single_line">Icon labels in single line</string>
+<string name="single_line_on">On</string>
+<string name="single_line_off">Off</string>
+<string name="scrolling_line">Scrolling line</string>
+<string name="scrolling_line_on">On</string>
+<string name="scrolling_line_off">Off</string>
+<string name="unlock_animation_off">Remove unlock icon animation</string>
+<string name="close_folder">Automatically close folders</string>
+<string name="infinite_scroll">Infinite scroll</string>
+<string name="icon_name_title">Hide icon labels</string>
+<string name="hotseat_icons_title">Hide dock icon labels</string>
+<string name="icon_shadows">Icon Shadows</string>
+<string name="clock_in_sb">Always show clock in Status bar</string>
+<string name="return_previous_app">Go back to previous app</string>
+<string name="return_previous_app_s">Swipe across the screen starting from the edge to go back to previous app</string>
+<string name="gesture_home">Gestures on the desktop</string>
+<string name="doubletap_home">Double tap</string>
+<string name="swipe_up_home">Swipe up</string>
+<string name="double_tap_app_title">Application for double tap</string>
+<string name="swipe_up_app_title">Application for swipe up</string>
+<string name="lockscreen_settings">Lockscreen and charge animation</string>
+<string name="always_show_lockscreen_notification">Always show notifications on lock screen</string>
+<string name="charge_animation_settings">Charge animation</string>
+<string name="color_of_first_line">First line color</string>
+<string name="color_of_second_line">Second line color</string>
+<string name="color_of_third_line">Third line color</string>
+<string name="color_of_fourth_line">Fourth line color</string>
+<string name="color_of_fifth_line">Fifth line color</string>
+<string name="color_of_sixth_line">Sixth line color</string>
+<string name="music_player">Music player</string>
+<string name="volbtn_toggle_title">Music management</string>
+<string name="volbtn_timeout_title">Time delay</string>
+<string name="volbtn_vol_up_title">Volume up</string>
+<string name="volbtn_vol_down_title">Volume down</string>
+<string name="volbtn_timeout_summary">Current: %s ms</string>
+<string name="volbtn_toggle_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
+<string name="action_bar_type">Action bar type</string>
+<string name="pip_window_size">PiP window size</string>
+<string name="pip_default">Default</string>
+<string name="pip_medium">Medium</string>
+<string name="pip_big">Big</string>
+<string name="statusbar_style_title">Status bar style</string>
+<string name="listview_animation_title">List view animation</string>
+<string name="popup_animation_title">Popup Animation</string>
+<string name="disable_screenshot_secure">Disable secure screenshot</string>
+<string name="notification_sound_mod_title">Notification sound while screen is on</string>
+<string name="low_battery_title">Low battery dialog</string>
+<string name="hide_title">Hide</string>
+<string name="show_title">Show</string>	
+<string name="mind_settings_title">Mind Settings</string>
+<string name="support_group">Support Group</string>
+<string name="updates_channel">Updates Channel</string>
+<string name="maintainer">Maintainer: Kevin Miranda</string>
+<string name="additional_info">Additional info</string>
+<string name="about_mind">About Mind Edition</string>
+<string name="mind_settings">Additional settings</string>
+<string name="mind_version">12.0.13.0</string>
+<string name="disable_global_dark_mode_title">Disable global dark mode</string>
+<string name="control_center_settings">Control Center</string>
+<string name="press_color_to_apply">Press color to apply</string>
+
+
+
+Arrays:
+-> Edit the text inside <item> </item> 
+Example:
+
+<item>Ringtone</item> 
+------->
+<item>Tono de llamada</item> 
+
+-> Don't edit text with @
+
+
+
+<string-array name="volbtn_action_entries">
+    <item>Next</item>
+    <item>Previous</item>
+    <item>Stop</item>
+    <item>None</item>
+</string-array>
+<string-array name="volbtn_action_values">
+    <item>87</item>
+    <item>88</item>
+    <item>127</item>
+    <item>555</item>
+</string-array>
+<string-array name="volbtn_timeout_entries">
+    <item>2000 ms</item>
+    <item>1500 ms</item>
+    <item>1000 ms</item>
+    <item>700 ms</item>
+    <item>500 ms</item>
+    <item>300 ms</item>
+</string-array>
+<string-array name="volbtn_timeout_values">
+    <item>2000</item>
+    <item>1500</item>
+    <item>1000</item>
+    <item>700</item>
+    <item>500</item>
+    <item>300</item>
+</string-array>
+<string-array name="battery_icon_entries">
+    <item>MIUI 12</item>
+    <item>MIUI 11</item>
+</string-array>
+<string-array name="battery_icon_values">
+    <item>0</item>
+    <item>1</item>
+</string-array>
+<string-array name="action_bar_type_entries">
+    <item>Changing</item>
+    <item>Big</item>
+    <item>Little</item>
+</string-array>
+<string-array name="action_bar_type_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+</string-array>
+<string-array name="folder_col_entries">
+    <item>3 columns</item>
+    <item>4 columns</item>
+</string-array>
+<string-array name="folder_col_values">
+    <item>3</item>
+    <item>4</item>
+</string-array>
+<array name="net_speed_icons">
+    <item>@drawable/battery_indicator_off</item>
+    <item>@drawable/net_single_speed</item>
+    <item>@drawable/net_dooble_speed</item>
+</array>
+<string-array name="net_speed_entries">
+    <item>Do not show</item>
+    <item>In one line</item>
+    <item>In two lines</item>
+</string-array>
+<string-array name="net_speed_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+</string-array>
+<string-array name="listview_animation_entries">
+    <item>No animation</item>
+    <item>Zoom</item>
+    <item>Maps</item>
+    <item>Twist</item>
+    <item>Wave</item>
+    <item>Coup</item>
+    <item>Flight</item>
+    <item>Reverse Flight</item>
+    <item>Spiral</item>
+    <item>Screw</item>
+    <item>Tilt</item>
+    <item>Zipper</item>
+    <item>Damping</item>
+    <item>Rotation</item>
+    <item>Slide</item>
+</string-array>
+<string-array name="listview_animation_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>11</item>
+    <item>12</item>
+    <item>13</item>
+    <item>14</item>
+</string-array>
+<string-array name="animation_speed_entries">
+    <item>1.35f</item>
+    <item>1.25f</item>
+    <item>1.15f</item>
+    <item>1.0f</item>
+    <item>0.8f</item>
+    <item>0.75f</item>
+    <item>0.5f</item>
+</string-array>
+<string-array name="animation_speed_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+</string-array>
+<string-array name="pip_window_size_entries">
+    <item>@string/pip_default</item>
+    <item>@string/pip_medium</item>
+    <item>@string/pip_big</item>
+</string-array>
+<string-array name="pip_window_size_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+</string-array>
+<string-array name="toast_animation_entries">
+    <item>Default</item>
+    <item>Fade</item>
+    <item>SlideRight</item>
+    <item>SlideLeft</item>
+    <item>Xylon</item>
+    <item>Toko</item>
+    <item>TN</item>
+    <item>Honami</item>
+    <item>FastFade</item>
+    <item>GrowFade</item>
+    <item>Translucent</item>
+    <item>SlideLeftRight</item>
+    <item>SlideRightLeft</item>
+    <item>Wlryss</item>
+    <item>Wlryss1</item>
+    <item>Wlryss2</item>
+    <item>Wlryss3</item>
+    <item>Wlryss4</item>
+    <item>Wlryss5</item>
+    <item>Wlryss6</item>
+    <item>Wlryss7</item>
+    <item>Wlryss8</item>
+</string-array>
+<string-array name="toast_animation_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>11</item>
+    <item>12</item>
+    <item>13</item>
+    <item>14</item>
+    <item>15</item>
+    <item>16</item>
+    <item>17</item>
+    <item>18</item>
+    <item>19</item>
+    <item>20</item>
+    <item>21</item>
+    <item>22</item>
+</string-array>
+<string-array name="statusbar_style_entries">
+    <item>Default</item>
+    <item>Center Clock</item>
+    <item>AOSP</item>
+</string-array>
+<string-array name="statusbar_style_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+</string-array>
+<string-array name="launcher_gesture_entries">
+    <item>Turn off the screen</item>
+    <item>Power menu</item>
+    <item>Recent Apps</item>
+    <item>Phone</item>
+    <item>Sound Mode: Sound / Vibration</item>
+    <item>Notification panel</item>
+    <item>Switch Wi-Fi</item>
+    <item>Switch Bluetooth</item>
+    <item>Switch Mobile Of data</item>
+    <item>Clear memory</item>
+    <item>Running the application</item>
+    <item>Disable</item>
+</string-array>
+<string-array name="launcher_double_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>999</item>
+</string-array>
+<string-array name="launcher_swipe_values">
+<item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>11</item>
+    <item>999</item>
+</string-array>
+
