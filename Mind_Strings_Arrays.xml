@@ -7,116 +7,269 @@ Example of traduction:
 
 
 
-<string name="system_volume_option_title">System volume</string>
-<string name="sb_mind_settings_title">Control center and Status bar</string>
-<string name="switch_cc">Switch the Control center style</string>
-<string name="switch_cc_s">Data Usage instead of Flashlight tile</string>
-<string name="number_notification_icons_title">Number of notification icons</string>	
-<string name="sb_icon_size">Size of notification icons</string>
-<string name="percent_size">Battery percent size</string>
-<string name="clock_size">Clock size</string>
-<string name="netspeed_double_size">Size of double network speed</string>
-<string name="netspeed_single_size">Size of single network speed</string>
-<string name="hide_alarm_icon">Hide alarm icon</string>
-<string name="hide_bt_icon">Hide bluetooth icon</string>
-<string name="position_network_icons">Position of network icons</string>
-<string name="vertically">Vertically</string>
-<string name="horizontally">Horizontally</string>
-<string name="battery_icon_style">Battery icon style</string>
-<string name="battery_icon_color">Color of battery icon</string>
-<string name="color_battery_1">Color at 70-100</string>
-<string name="color_battery_2">Color at 50-70</string>
-<string name="color_battery_3">Color at 20-50</string>
-<string name="color_battery_4">Color at 5-20</string>
-<string name="color_battery_5">Color at 0-5</string>
-<string name="battery_icon_and_percentage">Battery icon and percentage</string>
-<string name="big_tiles_settings">Big tiles settings</string>
-<string name="color_big_tile_on">Tile color while it is turned on</string>
-<string name="color_big_tile_off">Tile color while it is turned off</string>
-<string name="color_outline_tile_on">Outline color while tile is turned on</string>
-<string name="color_outline_tile_off">Outline color while tile is turned off</string>
-<string name="outline_width_tile_on">Outline width while tile is turned on</string>
-<string name="outline_width_tile_off">Outline width while tile is turned off</string>
-<string name="corner_big_tiles_radius">Tile corner radius</string>
-<string name="blur_radius_bg">Background blur radius</string>
-<string name="change_bg">Change background</string>
-<string name="blur_bg_summary">Blur</string>
-<string name="color_bg_summary">Color</string>
-<string name="color_bg">Background color</string>
-<string name="contacts_settings">Contacts</string>
-<string name="text_bg">Reboot your device after changing this setting. In some cases you just need to close the app</string>
-<string name="icons_text_header">Icons in the header instead of text</string>
-<string name="blur_radius_ts">Background blur radius during a call</string>
-<string name="transparency_ts">Background transparency during a call</string>
-<string name="color_bg_ts">Background color during a call</string>	
-<string name="show_incoming_calls_full_screen_title">Show incoming calls in full screen</string>
-<string name="launcher_settings">Launcher</string>
-<string name="standard_settings">Standard settings</string>
-<string name="blur_radius_recents_folders_title">Blur radius for recents and folders</string>
-<string name="animation_speed_title">Animation speed</string>
-<string name="simple_anim_title">Simple animation</string>
-<string name="allow_freeform_all_apps">Allow all apps to use floating window</string>
-<string name="folder_col_count_title">Number of icons in folder columns</string>
-<string name="single_line">Icon labels in single line</string>
-<string name="single_line_on">On</string>
-<string name="single_line_off">Off</string>
-<string name="scrolling_line">Scrolling line</string>
-<string name="scrolling_line_on">On</string>
-<string name="scrolling_line_off">Off</string>
-<string name="unlock_animation_off">Remove unlock icon animation</string>
-<string name="close_folder">Automatically close folders</string>
-<string name="infinite_scroll">Infinite scroll</string>
-<string name="icon_name_title">Hide icon labels</string>
-<string name="hotseat_icons_title">Hide dock icon labels</string>
-<string name="icon_shadows">Icon Shadows</string>
-<string name="clock_in_sb">Always show clock in Status bar</string>
-<string name="return_previous_app">Go back to previous app</string>
-<string name="return_previous_app_s">Swipe across the screen starting from the edge to go back to previous app</string>
-<string name="gesture_home">Gestures on the desktop</string>
-<string name="doubletap_home">Double tap</string>
-<string name="swipe_up_home">Swipe up</string>
-<string name="double_tap_app_title">Application for double tap</string>
-<string name="swipe_up_app_title">Application for swipe up</string>
-<string name="lockscreen_settings">Lockscreen and charge animation</string>
-<string name="always_show_lockscreen_notification">Always show notifications on lock screen</string>
-<string name="charge_animation_settings">Charge animation</string>
-<string name="color_of_first_line">First line color</string>
-<string name="color_of_second_line">Second line color</string>
-<string name="color_of_third_line">Third line color</string>
-<string name="color_of_fourth_line">Fourth line color</string>
-<string name="color_of_fifth_line">Fifth line color</string>
-<string name="color_of_sixth_line">Sixth line color</string>
-<string name="music_player">Music player</string>
-<string name="volbtn_toggle_title">Music management</string>
-<string name="volbtn_timeout_title">Time delay</string>
-<string name="volbtn_vol_up_title">Volume up</string>
-<string name="volbtn_vol_down_title">Volume down</string>
-<string name="volbtn_timeout_summary">Current: %s ms</string>
-<string name="volbtn_toggle_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
-<string name="action_bar_type">Action bar type</string>
-<string name="pip_window_size">PiP window size</string>
-<string name="pip_default">Default</string>
-<string name="pip_medium">Medium</string>
-<string name="pip_big">Big</string>
-<string name="statusbar_style_title">Status bar style</string>
-<string name="listview_animation_title">List view animation</string>
-<string name="popup_animation_title">Popup Animation</string>
-<string name="disable_screenshot_secure">Disable secure screenshot</string>
-<string name="notification_sound_mod_title">Notification sound while screen is on</string>
-<string name="low_battery_title">Low battery dialog</string>
-<string name="hide_title">Hide</string>
-<string name="show_title">Show</string>	
-<string name="mind_settings_title">Mind Settings</string>
-<string name="support_group">Support Group</string>
-<string name="updates_channel">Updates Channel</string>
-<string name="maintainer">Maintainer: Kevin Miranda</string>
-<string name="additional_info">Additional info</string>
-<string name="about_mind">About Mind Edition</string>
-<string name="mind_settings">Additional settings</string>
-<string name="mind_version">12.0.13.0</string>
-<string name="disable_global_dark_mode_title">Disable global dark mode</string>
-<string name="control_center_settings">Control Center</string>
-<string name="press_color_to_apply">Press color to apply</string>
+    <string name="brightness_settings_title">Brightness panel settings</string>
+	<string name="select_custom_app_title">List of available actions</string>
+	<string name="picker_activities">Action</string>
+	<string name="recents_corners_window_radius">Recents windows corners radius</string>
+	<string name="color_of_text">Text color</string>
+	<string name="notification_settings_title">Notifications settings</string>
+	<string name="icons_sb_hide">Hiding status bar icons</string>
+	<string name="system_volume_option_title">System volume</string>
+    <string name="sb_mind_settings_title">Control center and status bar</string>
+    <string name="battery_icon_style">Battery icon style</string>
+    <string name="battery_icon_color">Color of battery icon</string>
+    <string name="color_battery_1">Color at 70-100</string>
+    <string name="color_battery_2">Color at 50-70</string>
+    <string name="color_battery_3">Color at 20-50</string>
+    <string name="color_battery_4">Color at 5-20</string>
+    <string name="color_battery_5">Color at 0-5</string>
+    <string name="battery_icon_and_percentage">Battery icon and percentage</string>
+    <string name="contacts_settings">Contacts</string>
+    <string name="text_bg">Reboot your device after changing this setting. In some cases you just need to close the app</string>
+    <string name="icons_text_header">Icons in the header instead of text</string>
+    <string name="blur_radius_ts">Background blur radius during a call</string>
+    <string name="transparency_ts">Background transparency during a call</string>
+    <string name="color_bg_ts">Background color during a call</string>
+    <string name="show_incoming_calls_full_screen_title">Show incoming calls in full screen</string>
+    <string name="launcher_settings">Launcher</string>
+    <string name="standard_settings">Standard settings</string>
+    <string name="blur_radius_recents_title">Blur radius for recents</string>
+    <string name="recents_blur_title">Disable blur in recents</string>
+    <string name="animation_speed_title">Animation speed</string>
+    <string name="simple_anim_title">Simple animation</string>
+    <string name="allow_freeform_all_apps">Allow all apps to use floating window</string>
+    <string name="folder_col_count_title">Number of icons in folder columns</string>
+    <string name="single_line">Icon labels in single line</string>
+    <string name="single_line_on">On</string>
+    <string name="single_line_off">Off</string>
+    <string name="scrolling_line">Scrolling line</string>
+    <string name="scrolling_line_on">On</string>
+    <string name="scrolling_line_off">Off</string>
+    <string name="unlock_animation_off">Remove unlock icon animation</string>
+    <string name="close_folder">Automatically close folders</string>
+    <string name="infinite_scroll">Infinite scroll</string>
+    <string name="icon_name_title">Hide icon labels</string>
+    <string name="hotseat_icons_title">Hide dock icon labels</string>
+    <string name="icon_shadows">Icon Shadows</string>
+    <string name="clock_in_sb">Always show clock in Status bar</string>
+    <string name="return_previous_app">Go back to previous app</string>
+    <string name="return_previous_app_s">Swipe across the screen starting from the edge to go back to previous app</string>
+    <string name="gesture_home">Gestures on the desktop</string>
+    <string name="doubletap_home">Double tap</string>
+    <string name="swipe_up_home">Swipe up</string>
+    <string name="double_tap_app_title">Application for double tap</string>
+    <string name="swipe_up_app_title">Application for swipe up</string>
+    <string name="lockscreen_settings">Lockscreen and charge animation</string>
+    <string name="always_show_lockscreen_notification">Always show notifications on lock screen</string>
+    <string name="charge_animation_settings">Charge animation</string>
+    <string name="color_of_first_line">First line color</string>
+    <string name="color_of_second_line">Second line color</string>
+    <string name="color_of_third_line">Third line color</string>
+    <string name="color_of_fourth_line">Fourth line color</string>
+    <string name="color_of_fifth_line">Fifth line color</string>
+    <string name="color_of_sixth_line">Sixth line color</string>
+    <string name="music_player">Music player</string>
+    <string name="volbtn_toggle_title">Music management</string>
+    <string name="volbtn_timeout_title">Time delay</string>
+    <string name="volbtn_vol_up_title">Volume up</string>
+    <string name="volbtn_vol_down_title">Volume down</string>
+    <string name="volbtn_timeout_summary">Current: %s ms</string>
+    <string name="volbtn_toggle_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
+    <string name="action_bar_type">Action bar type</string>
+    <string name="pip_window_size">PiP window size</string>
+    <string name="pip_default">Default</string>
+    <string name="pip_medium">Medium</string>
+    <string name="pip_big">Big</string>
+    <string name="statusbar_style_title">Status bar style</string>
+    <string name="listview_animation_title">List view animation</string>
+    <string name="popup_animation_title">Popup Animation</string>
+    <string name="disable_screenshot_secure">Disable secure screenshot</string>
+    <string name="notification_sound_mod_title">Notification sound while screen is on</string>
+    <string name="low_battery_title">Low battery dialog</string>
+    <string name="hide_title">Hide</string>
+    <string name="show_title">Show</string>
+    <string name="mind_settings_title">Mind Settings</string>
+    <string name="support_group">Support Group</string>
+    <string name="updates_channel">Updates Channel</string>
+    <string name="maintainer">Maintainer</string>
+    <string name="additional_info">Additional info</string>
+    <string name="about_mind">About Mind Edition</string>
+    <string name="mind_settings">Additional settings</string>
+    <string name="mind_version">12.5.14.0</string>
+    <string name="disable_global_dark_mode_title">Disable global dark mode</string>
+    <string name="control_center_settings">Control Center</string>
+    <string name="press_color_to_apply">Press color to apply</string>
+    <string name="gd_setting_title">Sidebar</string>
+    <string name="additional_tiles_entries_cell">Cell</string>
+    <string name="additional_tiles_entries_wifi">Wi-Fi</string>
+    <string name="additional_tiles_entries_bt">Bluetooth</string>
+    <string name="additional_tiles_entries_flashlight">Flashlight</string>
+    <string name="additional_tiles_entries_hotspot">Hotspot</string>
+    <string name="additional_tiles_entries_mute">Mute</string>
+    <string name="additional_tiles_entries_vibrate">Vibration</string>
+    <string name="additional_tiles_entries_screenshot">Screenshot</string>
+    <string name="additional_tiles_entries_autobrightness">Autobrightness</string>
+    <string name="additional_tiles_entries_airplane">Airplane</string>
+    <string name="additional_tiles_entries_screenlock">Screenlock</string>
+    <string name="additional_tiles_entries_gps">GPS</string>
+    <string name="additional_tiles_entries_rotation">Autorotation</string>
+    <string name="additional_tiles_entries_papermode">Papermode</string>
+    <string name="additional_tiles_entries_night">Night mode</string>
+    <string name="additional_tiles_entries_quietmode">Quietmode</string>
+    <string name="additional_tiles_entries_batterysaver">Batterysaver</string>
+    <string name="additional_tiles_entries_data_tile">Info about network</string>
+    <string name="additional_tiles_entries_nfc">NFC</string>
+    <string name="additional_tiles_entries_sync">Sync</string>
+    <string name="number_of_tiles_entries_two">Two tiles</string>
+    <string name="number_of_tiles_entries_four">Four tiles</string>
+    <string name="number_of_tiles_entries_six">Six tiles</string>
+    <string name="number_of_tiles_entries_eight">Eight tiles</string>
+    <string name="gesture_anywhere_title">Gestures anywhere</string>
+    <string name="gesture_anywhere_enabled_title">Gesture control</string>
+    <string name="gesture_anywhere_enabled_summary">Configuring Gesture Control</string>
+    <string name="gesture_anywhere_gestures_title">Gestures</string>
+    <string name="gesture_anywhere_gestures_summary">Adding, deleting, and editing gestures</string>
+    <string name="ga_button_add">Add a gesture</string>
+    <string name="ga_error_missing_name">You must enter a name</string>
+    <string name="new_notif_user_colors_use">User colors</string>
+    <string name="new_notif_user_colors_default">Default colors</string>
+    <string name="new_notif_background_color_force_title">Force to use above color</string>
+    <string name="new_notif_background_alpha_title">Transparency for backdrop image</string>
+    <string name="ga_save_success">The gesture is saved for %s</string>
+    <string name="ga_gestures_loading">Loading gestures...</string>
+    <string name="ga_gestures_empty">No gestures</string>
+    <string name="ga_gestures_activity">Gestures</string>
+    <string name="ga_gestures_edit">Edit</string>
+    <string name="ga_gestures_delete_success">The gesture was deleted</string>
+    <string name="ga_gestures_rename_title">Rename a gesture</string>
+    <string name="ga_gestures_rename_label">Gesture Name</string>
+    <string name="ga_gestures_error_loading">Failed to load %s. Make sure that you have access to the storage.</string>
+    <string name="trigger_bottom_title">Height of the call area</string>
+    <string name="trigger_category">Call Zone Settings</string>
+    <string name="trigger_summary">Meaning: %s</string>
+    <string name="trigger_top_title">Position of the call area</string>
+    <string name="trigger_width_title">Width of the call area</string>
+    <string name="new_notif_user_colors_title">Turn on colors notification color settings</string>
+    <string name="new_notif_background_color_title">Backdrop notification color</string>
+    <string name="new_notif_header_textcolor_title">Text color for notification header</string>
+    <string name="new_notif_main_textcolor_title">Text color for notification title</string>
+    <string name="new_notif_auto_bg_header_title">Auto background color for notification header and actions</string>
+    <string name="new_notif_bg_header_color_title">Back color for notification header</string>
+    <string name="new_notif_bg_action_color_title">Back color for actions</string>
+    <string name="new_notif_bg_title">Backdrop</string>
+    <string name="new_notif_fg_title">Forecolor</string>
+    <string name="new_notif_second_textcolor_title">Text color for notification message</string>
+    <string name="new_notif_auto_fg_header_app_name_title">Auto color for app name</string>
+    <string name="new_notif_out_title">Outline</string>
+    <string name="new_notif_dividers_color_title">Color for header dividers</string>
+    <string name="new_notif_backcolor_title">Backcolor for every notification</string>
+    <string name="new_notif_backcolor_same_bg_title">Same color as backdrop</string>
+    <string name="new_notif_backcolor_title1">Notification backcolor</string>
+    <string name="new_notif_backcolor_alpha_title">Transparency for backcolor image</string>
+    <string name="new_notif_backcolor_to_childs_title">Apply backcolor to child notifications</string>
+    <string name="new_notif_divider_footer_color_title">Color for footer/fold divider</string>
+    <string name="new_notif_show_divider_title">Show notification dividers</string>
+    <string name="new_notif_divider_color_title">Color for notification dividers</string>
+    <string name="QS_background_border_width_title">Outline width</string>
+    <string name="QS_background_border_color_title">Outline color</string>
+    <string name="QS_background_border_radius_title">Corner radius</string>
+    <string name="show_on">Show</string>
+    <string name="show_off">Hide</string>
+	<string name="big_tiles_settings">Big tiles settings</string>
+	<string name="type_number_big_tiles">Big tile type and number settings</string>
+	<string name="number_big_tiles">Number of tiles in Control Center</string>
+	<string name="type_tile_1">First tile type</string>
+	<string name="type_tile_2">Second tile type</string>
+	<string name="type_tile_3">Third tile type</string>
+	<string name="type_tile_4">Fourth tile type</string>
+	<string name="type_tile_5">Fifth tile type</string>
+	<string name="type_tile_6">Sixth tile type</string>
+	<string name="type_tile_7">Seventh tile type</string>
+	<string name="type_tile_8">Eighth tile type</string>
+	<string name="color_big_tiles">Personalization big tiles settings</string>
+	<string name="switch_color_setting_big_tiles">Turn on settings colors of big tiles</string>
+	<string name="color_big_tile_on">Color of turned on tile</string>
+	<string name="color_big_tile_off">Color of turned off tile</string>
+	<string name="color_big_tile_disabled">Color of disabled tile</string>
+	<string name="color_icon_big_tile_on">Color of turned on icon tile</string>
+	<string name="color_icon_big_tile_off">Color of turned off icon tile</string>
+	<string name="color_icon_big_tile_disabled">Color of disabled icon tile</string>
+	<string name="big_tiles_gradient">Big tiles gradient</string>
+	<string name="first_color_big_tile_on">First color of turned on tile</string>
+	<string name="second_color_big_tile_on">Second color of turned on tile</string>
+	<string name="first_color_big_tile_off">First color of turned off tile</string>
+	<string name="second_color_big_tile_off">Second color of turned off tile</string>
+	<string name="first_color_big_tile_disabled">First color of disabled color</string>
+	<string name="second_color_big_tile_disabled">Second color of disabled color</string>
+	<string name="orientation_big_tile_gradient_on">Gradient orientation of turned on tile</string>
+	<string name="orientation_big_tile_gradient_off">Gradient orientation of turned off tile</string>
+	<string name="orientation_big_tile_gradient_disabled">Gradient orientation of disabled tile</string>
+	<string name="stroke_width_big_tile_on">Stroke width of turned on tile</string>
+	<string name="stroke_width_big_tile_off">Stroke width of turned off tile</string>
+	<string name="stroke_width_big_tile_disabled">Stroke width of disabled tile</string>
+	<string name="stroke_color_big_tile_on">Stroke color of turned on tile</string>
+	<string name="stroke_color_big_tile_off">Stroke color of turned off tile</string>
+	<string name="stroke_color_big_tile_disabled">Stroke color of disabled tile</string>
+	<string name="corner_big_tile_radius">Tile corner radius</string>
+	<string name="brightness_color_settings">Personalization brightness settings</string>
+	<string name="switch_color_brightness">Turn on settings colors of brightness</string>
+	<string name="brightness_color">Brightness color</string>
+	<string name="brightness_color_bg">Brightness background color</string>
+	<string name="brightness_color_gradient">Brightness gradient</string>
+	<string name="first_brightness_color_gradient">First color of brightness</string>
+	<string name="second_brightness_color_gradient">Second color of brightness</string>
+	<string name="first_brightness_color_gradient_bg">First color of brightness background</string>
+	<string name="second_brightness_color_gradient_bg">Second color of brightness background</string>
+	<string name="brightness_color_gradient_orientation">Brightness gradient orientation</string>
+	<string name="brightness_color_gradient_orientation_bg">Brightness gradient background orientation</string>
+	<string name="brightness_stroke_width_title">Stroke width of brightness</string>
+	<string name="brightness_stroke_color_title">Stroke color of brightness</string>
+	<string name="brightness_corner_radius_title">Brightness corner radius</string>
+	<string name="brightness_color_icon_switch">Enable custom volor of brightness icon setting</string>
+	<string name="brightness_color_icon">Color of brightness icon</string>
+	<string name="hide_alarm_icon_title">Hide alarm icon</string>
+	<string name="hide_bt_icon">Hide bluetooth icon</string>
+	<string name="hide_gps_icon">Hide GPS icon</string>
+	<string name="hide_dnd_icon">Hide Do not disturb icon</string>
+	<string name="hide_headset_icon">Hide headset icon</string>
+	<string name="battery_icon_settings">Battery icon settings</string>
+	<string name="battery_icon_style_oldnew">Battery icon type</string>
+	<string name="percent_icon_view">Pecent icon view</string>
+	<string name="other_sb_settings">Other statusbar settings</string>
+	<string name="small_tiles_settings">Small tiles settings</string>
+	<string name="small_tile_settings_color">Personalization small tiles settings</string>
+	<string name="small_tile_color_settings_switch">Turn on settings colors of small tiles</string>
+	<string name="color_small_tile_on">Color of turned on tile</string>
+	<string name="color_small_tile_off">Color of turned off tile</string>
+	<string name="color_small_tile_disabled">Color of disabled tile</string>
+	<string name="color_icon_small_tile_on">Color of turned on icon tile</string>
+	<string name="color_icon_small_tile_off">Color of turned off tile</string>
+	<string name="color_icon_small_tile_disabled">Color of disabled tile</string>
+	<string name="small_tiles_gradient">Small tiles gradient</string>
+	<string name="first_color_small_tile_on">First color of turned on tile</string>
+	<string name="second_color_small_tile_on">Second color of turned off tile</string>
+	<string name="first_color_small_tile_off">First color of turned off tile</string>
+	<string name="second_color_small_tile_off">Second color of turned off tile</string>
+	<string name="first_color_small_tile_disabled">First color of disabled tile</string>
+	<string name="second_color_small_tile_disabled">Second color of disabled tile</string>
+	<string name="orientation_small_tile_gradient_on">Gradient orientation of turned on tile</string>
+	<string name="orientation_small_tile_gradient_off">Gradient orientation of turned off tile</string>
+	<string name="orientation_small_tile_gradient_disabled">Gradient orientation of disabled tile</string>
+	<string name="stroke_width_small_tile_on">Stroke width of turned on tile</string>
+	<string name="stroke_width_small_tile_off">Stroke width of turned off tile</string>
+	<string name="stroke_width_small_tile_disabled">Stroke width of disabled tile</string>
+	<string name="stroke_color_small_tile_on">Stroke color of turned on tile</string>
+	<string name="stroke_color_small_tile_off">Stroke color of turned off tile</string>
+	<string name="stroke_color_small_tile_disabled">Stroke color of disabled tile</string>
+	<string name="corner_small_tile_radius">Tile corner radius</string>
+	<string name="powermenu_style">Powermenu style</string>
+	<string name="old_powermenu">Turn on old type of powermenu</string>
+	<string name="wigi_5ghz_title">Activate 5GHz Wi-Fi</string>
+	<string name="screen_off_anim_title">Screen off style</string>
+	<string name="wifi_5ghz_sum">Activates 5GHz WiFi for residents of countries where it is blocked. After enabling this setting, you need to reboot the device</string>
+	<string name="media_art_lockscreen">Album art on the lock screen</string>
+	<string name="art_show">Album art is showing</string>
+	<string name="art_hide">Album art is hidden</string>
 
 
 
@@ -132,237 +285,108 @@ Example:
 
 
 
-<string-array name="volbtn_action_entries">
-    <item>Next</item>
-    <item>Previous</item>
-    <item>Stop</item>
-    <item>None</item>
-</string-array>
-<string-array name="volbtn_action_values">
-    <item>87</item>
-    <item>88</item>
-    <item>127</item>
-    <item>555</item>
-</string-array>
 <string-array name="volbtn_timeout_entries">
-    <item>2000 ms</item>
-    <item>1500 ms</item>
-    <item>1000 ms</item>
-    <item>700 ms</item>
-    <item>500 ms</item>
-    <item>300 ms</item>
-</string-array>
-<string-array name="volbtn_timeout_values">
-    <item>2000</item>
-    <item>1500</item>
-    <item>1000</item>
-    <item>700</item>
-    <item>500</item>
-    <item>300</item>
-</string-array>
-<string-array name="battery_icon_entries">
-    <item>MIUI 12</item>
-    <item>MIUI 11</item>
-</string-array>
-<string-array name="battery_icon_values">
-    <item>0</item>
-    <item>1</item>
-</string-array>
+        <item>2000 ms</item>
+        <item>1500 ms</item>
+        <item>1000 ms</item>
+        <item>700 ms</item>
+        <item>500 ms</item>
+        <item>300 ms</item>
+    </string-array>
+<string-array name="volbtn_action_entries">
+        <item>Next</item>
+        <item>Previous</item>
+        <item>Stop</item>
+        <item>None</item>
+    </string-array>
 <string-array name="action_bar_type_entries">
-    <item>Changing</item>
-    <item>Big</item>
-    <item>Little</item>
-</string-array>
-<string-array name="action_bar_type_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-</string-array>
+        <item>Changing</item>
+        <item>Big</item>
+        <item>Little</item>
+    </string-array>
 <string-array name="folder_col_entries">
-    <item>3 columns</item>
-    <item>4 columns</item>
-</string-array>
-<string-array name="folder_col_values">
-    <item>3</item>
-    <item>4</item>
-</string-array>
-<array name="net_speed_icons">
-    <item>@drawable/battery_indicator_off</item>
-    <item>@drawable/net_single_speed</item>
-    <item>@drawable/net_dooble_speed</item>
-</array>
+        <item>3 columns</item>
+        <item>4 columns</item>
+    </string-array>
 <string-array name="net_speed_entries">
-    <item>Do not show</item>
-    <item>In one line</item>
-    <item>In two lines</item>
-</string-array>
-<string-array name="net_speed_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-</string-array>
+        <item>Do not show</item>
+        <item>In one line</item>
+        <item>In two lines</item>
+    </string-array>
 <string-array name="listview_animation_entries">
-    <item>No animation</item>
-    <item>Zoom</item>
-    <item>Maps</item>
-    <item>Twist</item>
-    <item>Wave</item>
-    <item>Coup</item>
-    <item>Flight</item>
-    <item>Reverse Flight</item>
-    <item>Spiral</item>
-    <item>Screw</item>
-    <item>Tilt</item>
-    <item>Zipper</item>
-    <item>Damping</item>
-    <item>Rotation</item>
-    <item>Slide</item>
-</string-array>
-<string-array name="listview_animation_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-    <item>7</item>
-    <item>8</item>
-    <item>9</item>
-    <item>10</item>
-    <item>11</item>
-    <item>12</item>
-    <item>13</item>
-    <item>14</item>
-</string-array>
-<string-array name="animation_speed_entries">
-    <item>1.35f</item>
-    <item>1.25f</item>
-    <item>1.15f</item>
-    <item>1.0f</item>
-    <item>0.8f</item>
-    <item>0.75f</item>
-    <item>0.5f</item>
-</string-array>
-<string-array name="animation_speed_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-    <item>7</item>
-</string-array>
-<string-array name="pip_window_size_entries">
-    <item>@string/pip_default</item>
-    <item>@string/pip_medium</item>
-    <item>@string/pip_big</item>
-</string-array>
-<string-array name="pip_window_size_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-</string-array>
-<string-array name="toast_animation_entries">
-    <item>Default</item>
-    <item>Fade</item>
-    <item>SlideRight</item>
-    <item>SlideLeft</item>
-    <item>Xylon</item>
-    <item>Toko</item>
-    <item>TN</item>
-    <item>Honami</item>
-    <item>FastFade</item>
-    <item>GrowFade</item>
-    <item>Translucent</item>
-    <item>SlideLeftRight</item>
-    <item>SlideRightLeft</item>
-    <item>Wlryss</item>
-    <item>Wlryss1</item>
-    <item>Wlryss2</item>
-    <item>Wlryss3</item>
-    <item>Wlryss4</item>
-    <item>Wlryss5</item>
-    <item>Wlryss6</item>
-    <item>Wlryss7</item>
-    <item>Wlryss8</item>
-</string-array>
-<string-array name="toast_animation_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-    <item>7</item>
-    <item>8</item>
-    <item>9</item>
-    <item>10</item>
-    <item>11</item>
-    <item>12</item>
-    <item>13</item>
-    <item>14</item>
-    <item>15</item>
-    <item>16</item>
-    <item>17</item>
-    <item>18</item>
-    <item>19</item>
-    <item>20</item>
-    <item>21</item>
-    <item>22</item>
-</string-array>
-<string-array name="statusbar_style_entries">
-    <item>Default</item>
-    <item>Center Clock</item>
-    <item>AOSP</item>
-</string-array>
-<string-array name="statusbar_style_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-</string-array>
-<string-array name="launcher_gesture_entries">
-    <item>Turn off the screen</item>
-    <item>Power menu</item>
-    <item>Recent Apps</item>
-    <item>Phone</item>
-    <item>Sound Mode: Sound / Vibration</item>
-    <item>Notification panel</item>
-    <item>Switch Wi-Fi</item>
-    <item>Switch Bluetooth</item>
-    <item>Switch Mobile Of data</item>
-    <item>Clear memory</item>
-    <item>Running the application</item>
-    <item>Disable</item>
-</string-array>
-<string-array name="launcher_double_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-    <item>7</item>
-    <item>8</item>
-    <item>9</item>
-    <item>10</item>
-    <item>999</item>
-</string-array>
-<string-array name="launcher_swipe_values">
-<item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-    <item>7</item>
-    <item>8</item>
-    <item>9</item>
-    <item>11</item>
-    <item>999</item>
+        <item>No animation</item>
+        <item>Zoom</item>
+        <item>Maps</item>
+        <item>Twist</item>
+        <item>Wave</item>
+        <item>Coup</item>
+        <item>Flight</item>
+        <item>Reverse Flight</item>
+        <item>Spiral</item>
+        <item>Screw</item>
+        <item>Tilt</item>
+        <item>Zipper</item>
+        <item>Damping</item>
+        <item>Rotation</item>
+        <item>Slide</item>
+    </string-array>
+    <string-array name="toast_animation_entries">
+        <item>Default</item>
+        <item>Fade</item>
+        <item>SlideRight</item>
+        <item>SlideLeft</item>
+        <item>Xylon</item>
+        <item>Toko</item>
+        <item>TN</item>
+        <item>Honami</item>
+        <item>FastFade</item>
+        <item>GrowFade</item>
+        <item>Translucent</item>
+        <item>SlideLeftRight</item>
+        <item>SlideRightLeft</item>
+        <item>Wlryss</item>
+        <item>Wlryss1</item>
+        <item>Wlryss2</item>
+        <item>Wlryss3</item>
+        <item>Wlryss4</item>
+        <item>Wlryss5</item>
+        <item>Wlryss6</item>
+        <item>Wlryss7</item>
+        <item>Wlryss8</item>
+    </string-array>
+    <string-array name="power_menu_stok"> <!--There you can translate like in memes-->
+        <item>Default</item>
+        <item>Extended</item>
+        <item>Colored Extended</item>
+        <item>RealmeUI Extended</item>
+        <item>Darkness</item>
+        <item>MIUI 12.5 Like</item>
+        <item>Android Pie</item>
+        <item>Crienge Edition 1</item>
+        <item>Crienge Edition 2</item>
+    </string-array>
+    <string-array name="use_legacy_drawable_entries">
+        <item>MIUI 12</item>
+        <item>MIUI 11</item>
+    </string-array>
+    <string-array name="gradient_orientation_entries">
+        <item>From left to right</item>
+        <item>From right to left</item>
+        <item>From top to bottom</item>
+        <item>From bottom to top</item>
+        <item>From bottom left to top right</item>
+        <item>From bottom right to top left</item>
+        <item>From top left to bottom right</item>
+        <item>From top right to bottom left</item>
+    </string-array>
+    <string-array name="tweaks_screen_off_animation_entries">
+        <item>None</item>
+        <item>CRT</item>
+        <item>Scale</item>
+    </string-array>
+    <string-array name="gesture_anywhere_position_entries">
+        <item>On the left</item>
+        <item>On the right</item>
+    </string-array>
 </string-array>
 
